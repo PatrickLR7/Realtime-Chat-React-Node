@@ -1,0 +1,5 @@
+/client/node_modules
+/client/.netlify
+/client/build
+/server/node_modules
+/server/Procfile
